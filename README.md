@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Kunal 👋</h1>
+<h1 align="center">Hey, I'm Kunal </h1>
 
 <p align="center">
-  Full-Stack Developer · Building real products, not just assignments
+  Full-Stack Developer & Founder @TurfUp Ventures | Building scalable web products for startups, design to deployment | React · Node · AWS | Open to freelance 🚀
 </p>
 
 ---
@@ -9,8 +9,6 @@
 ### 🔨 Currently Building
 
 - **[VoxGuard](https://github.com/kunalshinde3996-sv/voxguard)** — AI-powered real-time voice clone detection system. Acoustic anti-spoofing + LLM transcript scoring + fusion engine. Built for SIH 2026.
-- **[School Billing System](https://github.com/kunalshinde3996-sv/billing-vision)** — Therapy attendance & challan management system built for a real school. Used in production.
-
 ---
 
 ### 🛠️ Tech Stack
@@ -23,16 +21,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalshinde3996-sv&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalshinde3996-sv&layout=compact&theme=dark&hide_border=true" width="38%"/>
-</p>
-
----
-
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
